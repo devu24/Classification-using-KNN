@@ -1,5 +1,3 @@
-Certainly! Here's a detailed explanation of the content in the file, suitable for a GitHub README:
-
 # Diabetes Prediction Using Machine Learning
 
 This project demonstrates the use of machine learning techniques to predict diabetes based on various health metrics. The analysis is performed using Python and several popular data science libraries.
