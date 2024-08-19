@@ -1,4 +1,5 @@
-Diabetes Prediction Using Machine Learning
+Diabetes Prediction Using Machine Learning:
+
 This project demonstrates the use of machine learning techniques to predict diabetes based on various health metrics. The analysis is performed using Python and several popular data science libraries.
 Dataset
 The dataset used in this project is the Pima Indians Diabetes Database. It includes several health-related features such as:
